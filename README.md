@@ -31,14 +31,14 @@ rsync -a --checksum --verbose --delete --progress --exclude '.*' /home/jora/ /tm
 #### crontab:
 [crontab](https://github.com/vajnichev/10-03-hw/blob/main/crontab)
 
-###Результат работы утилиты
+### Результат работы утилиты
 
 ![png](https://github.com/vajnichev/10-03-hw/blob/main/img/10.3.6.png)
 ![png](https://github.com/vajnichev/10-03-hw/blob/main/img/10.3.7.png)
 ![png](https://github.com/vajnichev/10-03-hw/blob/main/img/10.3.8.png)
 ![png](https://github.com/vajnichev/10-03-hw/blob/main/img/10.3.9.png)
 
-####Работы скрипта и утилиты
+#### Работы скрипта и утилиты
 #### скрипт:
 [backup.sh](https://github.com/vajnichev/10-03-hw/blob/main/backup.sh)
 
