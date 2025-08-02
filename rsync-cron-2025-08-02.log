@@ -1,0 +1,81 @@
+sending incremental file list
+./
+backup.sh
+            760 100%    0.00kB/s    0:00:00              760 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=51/53)
+Downloads/
+Downloads/crontab
+            979 100%    0.00kB/s    0:00:00              979 100%    0.00kB/s    0:00:00 (xfr#2, to-chk=34/53)
+Downloads/every_day_backup.sh
+            760 100%  742.19kB/s    0:00:00              760 100%  742.19kB/s    0:00:00 (xfr#3, to-chk=33/53)
+
+sent 4,417 bytes  received 126 bytes  313.31 bytes/sec
+total size is 8,589,938,577  speedup is 1,890,807.52
+[32m----- | 2025-08-02 | 18:03:15 | Backup completed Successfully! | -----[0m
+sending incremental file list
+./
+backup.sh
+            760 100%    0.00kB/s    0:00:00              760 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=51/53)
+nginx.conf
+          1,446 100%    1.38MB/s    0:00:00            1,446 100%    1.38MB/s    0:00:00 (xfr#2, to-chk=50/53)
+xx1_big.png
+         32,768   0%   15.62MB/s    0:02:14      269,680,640  12%  257.19MB/s    0:00:07      527,990,784  24%  251.89MB/s    0:00:06      791,216,128  36%  251.69MB/s    0:00:05    1,073,512,448  49%  256.14MB/s    0:00:04    1,371,373,568  63%  262.86MB/s    0:00:02    1,672,249,344  77%  272.95MB/s    0:00:01    2,008,612,864  93%  290.40MB/s    0:00:00    2,147,483,648 100%  276.16MB/s    0:00:07 (xfr#3, to-chk=49/53)
+xx1_big1.png
+         32,768   0%   75.65kB/s    7:53:06      179,666,944   8%  171.34MB/s    0:00:11      451,444,736  21%  215.37MB/s    0:00:07      713,326,592  33%  226.91MB/s    0:00:06      964,722,688  44%  230.18MB/s    0:00:05    1,208,090,624  56%  245.38MB/s    0:00:03    1,488,289,792  69%  247.33MB/s    0:00:02    1,753,448,448  81%  248.11MB/s    0:00:01    2,018,017,280  93%  251.12MB/s    0:00:00    2,147,483,648 100%  239.98MB/s    0:00:08 (xfr#4, to-chk=48/53)
+xx1_big2.png
+         32,768   0%   59.37kB/s   10:02:51      144,736,256   6%  138.03MB/s    0:00:14      483,426,304  22%  230.63MB/s    0:00:07      767,066,112  35%  243.93MB/s    0:00:05    1,032,945,664  48%  246.40MB/s    0:00:04    1,285,062,656  59%  272.01MB/s    0:00:03    1,591,246,848  74%  264.26MB/s    0:00:02    1,862,828,032  86%  261.38MB/s    0:00:01    2,131,820,544  99%  262.19MB/s    0:00:00    2,147,483,648 100%  254.66MB/s    0:00:08 (xfr#5, to-chk=47/53)
+Desktop/
+Documents/
+Downloads/
+Downloads/crontab
+            979 100%   19.92kB/s    0:00:00              979 100%   19.92kB/s    0:00:00 (xfr#6, to-chk=34/53)
+Downloads/every_day_backup.sh
+            760 100%   14.84kB/s    0:00:00              760 100%   14.84kB/s    0:00:00 (xfr#7, to-chk=33/53)
+Music/
+Pictures/
+Public/
+Templates/
+Videos/
+http1/
+http1/index.html
+             15 100%    0.28kB/s    0:00:00               15 100%    0.28kB/s    0:00:00 (xfr#8, to-chk=32/53)
+http2/
+http2/index.html
+             15 100%    0.27kB/s    0:00:00               15 100%    0.27kB/s    0:00:00 (xfr#9, to-chk=31/53)
+snap/
+snap/firefox/
+snap/firefox/current -> 4793
+snap/firefox/4793/
+snap/firefox/common/
+snap/firmware-updater/
+snap/firmware-updater/current -> 167
+snap/firmware-updater/127/
+snap/firmware-updater/167/
+snap/firmware-updater/common/
+snap/snapd-desktop-integration/
+snap/snapd-desktop-integration/current -> 315
+snap/snapd-desktop-integration/178/
+snap/snapd-desktop-integration/178/Desktop/
+snap/snapd-desktop-integration/178/Documents/
+snap/snapd-desktop-integration/178/Downloads/
+snap/snapd-desktop-integration/178/Music/
+snap/snapd-desktop-integration/178/Pictures/
+snap/snapd-desktop-integration/178/Public/
+snap/snapd-desktop-integration/178/Templates/
+snap/snapd-desktop-integration/178/Videos/
+snap/snapd-desktop-integration/315/
+snap/snapd-desktop-integration/315/Desktop/
+snap/snapd-desktop-integration/315/Documents/
+snap/snapd-desktop-integration/315/Downloads/
+snap/snapd-desktop-integration/315/Music/
+snap/snapd-desktop-integration/315/Pictures/
+snap/snapd-desktop-integration/315/Public/
+snap/snapd-desktop-integration/315/Templates/
+snap/snapd-desktop-integration/315/Videos/
+snap/snapd-desktop-integration/common/
+vajnichev/
+vajnichev/xx1_big.png
+         32,768   0%  571.43kB/s    1:02:38      264,798,208  12%  252.53MB/s    0:00:07      573,079,552  26%  273.27MB/s    0:00:05      877,428,736  40%  279.02MB/s    0:00:04    1,186,594,816  55%  283.05MB/s    0:00:03    1,523,351,552  70%  300.21MB/s    0:00:02    1,853,915,136  86%  305.60MB/s    0:00:00    2,147,483,648 100%  293.16MB/s    0:00:06 (xfr#10, to-chk=0/53)
+
+sent 8,592,038,033 bytes  received 382 bytes  229,121,024.40 bytes/sec
+total size is 8,589,938,577  speedup is 1.00
+[32m----- | 2025-08-02 | 18:07:38 | Backup completed Successfully! | -----[0m
