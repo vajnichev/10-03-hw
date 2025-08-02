@@ -13,7 +13,11 @@
 rsync -a --checksum --verbose --delete --progress --exclude '.*' /home/jora/ /tmp/backup
 ```
 `результатом ее выполнения`
-![png]()
+![png](https://github.com/vajnichev/10-03-hw/blob/main/img/10.3.1.png)
+![png](https://github.com/vajnichev/10-03-hw/blob/main/img/10.3.2.png)
+![png](https://github.com/vajnichev/10-03-hw/blob/main/img/10.3.3.png)
+![png](https://github.com/vajnichev/10-03-hw/blob/main/img/10.3.4.png)
+![png](https://github.com/vajnichev/10-03-hw/blob/main/img/10.3.5.png)
 
 ### Задание 2
 
@@ -25,12 +29,18 @@ rsync -a --checksum --verbose --delete --progress --exclude '.*' /home/jora/ /tm
 
 #### Решение:
 #### crontab:
-[]()
+[crontab](https://github.com/vajnichev/10-03-hw/blob/main/crontab)
+
 ###Результат работы утилиты
-![png]()
+
+![png](https://github.com/vajnichev/10-03-hw/blob/main/img/10.3.6.png)
+![png](https://github.com/vajnichev/10-03-hw/blob/main/img/10.3.7.png)
+![png](https://github.com/vajnichev/10-03-hw/blob/main/img/10.3.8.png)
+![png](https://github.com/vajnichev/10-03-hw/blob/main/img/10.3.9.png)
+
 ####Работы скрипта и утилиты
 #### скрипт:
-[]()
+[backup.sh](https://github.com/vajnichev/10-03-hw/blob/main/backup.sh)
 
 ```bash
  #!/bin/bash
@@ -48,7 +58,9 @@ fi
 
 ```
 `crontab`
-![png]()
+![png](https://github.com/vajnichev/10-03-hw/blob/main/img/10.3.10.png)
+
 #### rsync-cron-2025-08-02
-[]()
-![png]()
+[rsync-cron-2025-08-02.log](https://github.com/vajnichev/10-03-hw/blob/main/rsync-cron-2025-08-02.log)
+![png](https://github.com/vajnichev/10-03-hw/blob/main/img/10.3.11.png)
+![png](https://github.com/vajnichev/10-03-hw/blob/main/img/10.3.12.png)
